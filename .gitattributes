@@ -1,0 +1,12 @@
+
+
+# os rerated
+**.cc linguist-generated=true
+**.cpp linguist-generated=true
+**.h linguist-generated=true
+**/CMakeLists.txt linguist-generated=true
+**.cmake linguist-generated=true
+**.storyboard linguist-generated=true
+**.xml linguist-generated=true
+**.swift linguist-generated=true
+**.kt linguist-generated=true
